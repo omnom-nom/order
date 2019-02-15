@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/omnom-nom/order/apiserver"
+	"github.com/omnom-nom/apiserver"
 )
 
 const (
